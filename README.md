@@ -14,30 +14,6 @@ This project simulates a real-world software testing scenario where all key manu
 
 ---
 
-## 📁 Repository Structure
-
-Manual-Testing-Project/
-│
-├── TestPlan/
-│ └── Test_Plan_Document.pdf
-│
-├── TestCases/
-│ ├── Functional_TestCases.xlsx
-│ ├── UI_TestCases.xlsx
-│ └── Regression_TestCases.xlsx
-│
-├── RTM/
-│ └── Requirement_Traceability_Matrix.xlsx
-│
-└── Defects/ (optional)
-└── Bug_Reports.xlsx
-
-yaml
-Copy
-Edit
-
----
-
 ## ✅ Deliverables
 
 ### 1. Test Plan
